@@ -1,6 +1,6 @@
 # Arduino Core
 
-Welcome to the official Aruino Core organization on Github.
+Welcome to the official Arduino Core organization on Github.
 
 * [Greenhouse Automation](https://github.com/arduino-core/Greenhouse-Automation)
 `Automation control`
