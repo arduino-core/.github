@@ -2,10 +2,12 @@
 
 Welcome to the official Arduino Core organization on Github.
 
-* [Greenhouse Automation](https://github.com/arduino-core/Greenhouse-Automation)
-`Automation control`
+* `Outdoor Automation`
+
+  * [Greenhouse Automation](https://github.com/arduino-core/Greenhouse-Automation)
 This is a greenhouse automation control tool with settable time and temperature activation
 
-* [Temperature Sensor TMP36](https://github.com/arduino-core/Temperature-Sensor-TMP36)
-`Introduction`
-Introduction into operating the Temperature Sensor TMP36
+* `Introduction`
+
+  * [Temperature Sensor TMP36](https://github.com/arduino-core/Temperature-Sensor-TMP36)
+How to using a Temperature Sensor TMP36
